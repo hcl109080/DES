@@ -2,7 +2,7 @@
 
 ## 安装
 
-- composer require hcl109080/DES
+- composer require hcl109080/des:dev-master
 
 ## 使用
 
