@@ -1,0 +1,19 @@
+{
+    "name": "hcl109080/des",
+    "description": "DES加密",
+    "authors": [
+        {
+            "name": "hcl109080",
+            "email": "haixing12.20@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    	"php": ">=7.0",
+    },
+    "autoload": {	
+        "psr-4": {	
+            "Des\\": "src/"	
+        }	
+    },	
+}
