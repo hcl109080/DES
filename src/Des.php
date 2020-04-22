@@ -1,6 +1,6 @@
 <?php
 
-namespace Des;
+namespace Hcl109080;
 
 
 class Des{
